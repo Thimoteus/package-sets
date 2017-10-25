@@ -1468,7 +1468,7 @@
       "math",
       "maybe"
     ],
-    "repo": "https://github.com/saquest/purescript-uint.git",
+    "repo": "https://github.com/zaquest/purescript-uint.git",
     "version": "v0.5.0"
   },
   "unfoldable": {
