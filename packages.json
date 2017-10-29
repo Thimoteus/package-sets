@@ -989,7 +989,7 @@
       "prelude"
     ],
     "repo": "https://github.com/thimoteus/purescript-optlicative.git",
-    "version": "v0.1.0"
+    "version": "v0.1.1"
   },
   "options": {
     "dependencies": [
