@@ -979,7 +979,7 @@
     "repo": "https://github.com/sharkdp/purescript-numbers.git",
     "version": "v5.0.0"
   },
-  "optlicactive": {
+  "optlicative": {
     "dependencies": [
       "validation",
       "node-process",
